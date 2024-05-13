@@ -134,7 +134,7 @@
       "material": "denim fabric",
       "brand": "Rigo",
       "gender": "men",
-      "sales": 1567,
+      "sales": 186700,
       "fit": "Regular Fit"
     },
     {
@@ -194,7 +194,7 @@
       "material": "100% cotton",
       "brand": "Rigo",
       "gender": "men",
-      "sales": 9299,
+      "sales": 186700,
       "fit": "Slim Fit"
     },
     {
@@ -314,7 +314,7 @@
       "material": "100% nylon",
       "brand": "Campus Sutra",
       "gender": "women",
-      "sales": 2178,
+      "sales": 186700,
       "fit": "Regular Fit"
     },
     {
@@ -419,7 +419,7 @@
       "material": "100% cotton",
       "brand": "Campus Sutra",
       "gender": "men",
-      "sales": 2189,
+      "sales": 186700,
       "fit": "Regular Fit"
     },
     {
@@ -479,7 +479,7 @@
       "material": "premium blended fabric",
       "brand": "Campus Sutra",
       "gender": "men",
-      "sales": 42600,
+      "sales": 186700,
       "fit": "Slim Fit"
     },
     {
@@ -1822,7 +1822,7 @@
       "material": "premium blended fabric",
       "brand": "Bewakoof",
       "gender": "men",
-      "sales": 240,
+      "sales": 186700,
       "fit": "oversized"
     },
     {
@@ -1900,7 +1900,7 @@
       "material": "",
       "brand": "",
       "gender": "men",
-      "sales": 350,
+      "sales": 186700,
       "fit": ""
     },{
       "id": 127,
@@ -1989,7 +1989,7 @@
       "material": "",
       "brand": "",
       "gender": "men",
-      "sales": 410,
+      "sales": 186700,
       "fit": ""
     },
     {
@@ -2034,7 +2034,7 @@
       "material": "",
       "brand": "",
       "gender": "men",
-      "sales": 440,
+      "sales": 186700,
       "fit": ""
     },
     {
@@ -3071,33 +3071,33 @@
     },
     {
       "id": 205,
-      "title": "",
-      "category": "",
-      "description": "",
-      "price": 11199,
-      "oldPrice": 22699,
-      "rating": 4.1,
-      "image": "https://images.bewakoof.com/t1080/men-s-black-joggers-617412-1709805450-1.jpg",
-      "material": "",
-      "brand": "",
-      "gender": "men",
-      "sales": 98765,
-      "fit": ""
-    },
-    {
-      "id": 206,
-      "title": "",
-      "category": "",
-      "description": "",
+      "title": "Men's Grey Track Pants ",
+      "category": "pants",
+      "description": "good product",
       "price": 11299,
       "oldPrice": 22899,
       "rating": 3.9,
       "image": "https://images.bewakoof.com/t1080/men-s-black-joggers-617412-1709805450-1.jpg",
-      "material": "",
-      "brand": "",
+      "material": "PREMIUM BLENDED FABRIC",
+      "brand": "Bewakoof",
       "gender": "men",
       "sales": 65432,
-      "fit": ""
+      "fit": "Regular Fit"
+    },
+    {
+      "id": 206,
+      "title": "Men's Grey Track Pants ",
+      "category": "pants",
+      "description": "good product",
+      "price": 11299,
+      "oldPrice": 22899,
+      "rating": 3.9,
+      "image": "https://images.bewakoof.com/t1080/men-s-black-joggers-617412-1709805450-1.jpg",
+      "material": "PREMIUM BLENDED FABRIC",
+      "brand": "Bewakoof",
+      "gender": "men",
+      "sales": 65432,
+      "fit": "Regular Fit"
     }
   ]
 }
